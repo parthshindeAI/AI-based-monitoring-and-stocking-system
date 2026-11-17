@@ -1,1 +1,1 @@
-# Utility module init 
+"""Utility helpers used across the app."""

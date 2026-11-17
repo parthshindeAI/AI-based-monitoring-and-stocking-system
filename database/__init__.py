@@ -1,1 +1,1 @@
-# MongoDB connection and handlers 
+"""Database access helpers."""

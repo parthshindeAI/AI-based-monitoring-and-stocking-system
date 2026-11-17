@@ -1,1 +1,1 @@
-# UI module init 
+"""UI components for the monitoring dashboard."""

@@ -1,1 +1,11 @@
-id,name,quantity,timestamp 
+item_name,category,current_stock,reorder_point,daily_demand,lead_time_days,unit_price,supplier
+Laptop Pro 14,Electronics,28,24,3.2,7,1299.0,Delta Supply
+Office Chair,Furniture,15,18,1.8,10,249.0,NorthPoint
+Industrial Printer,Office,9,12,1.4,6,899.0,PrintWorks
+Wireless Mouse,Accessories,62,30,5.1,4,39.0,LinkTech
+USB-C Hub,Accessories,22,20,2.9,5,59.0,LinkTech
+Safety Gloves,Safety,11,15,1.7,8,18.0,Atlas Safety
+Monitor 27,Electronics,25,20,2.4,5,479.0,VisionTech
+Ergonomic Keyboard,Accessories,17,18,2.1,6,79.0,Delta Supply
+Portable SSD 1TB,Electronics,40,25,3.6,4,119.0,DataFlow
+Document Scanner,Office,12,15,1.1,7,449.0,ScanSource

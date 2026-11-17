@@ -1,1 +1,1 @@
-# AI model init 
+"""Forecasting and inventory intelligence utilities."""
